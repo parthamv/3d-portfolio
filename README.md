@@ -34,7 +34,7 @@ To get started with this 3D Portfolio Website, follow these steps:
 3. Open the project's directory in your favorite code editor.
 4. Customize the content, add your projects, and modify the design according to your preferences.
 5. Save your changes.
-6. Open the `index.html` file in your web browser to see your portfolio website in action!
+6. Run the `npm run dev` command in your code editor to see your portfolio website in action!
 
 ## Usage
 
