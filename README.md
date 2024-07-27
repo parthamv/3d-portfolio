@@ -12,7 +12,6 @@ Welcome to my 3D Portfolio Website! This website showcases my creative work and 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
 
 This portfolio website is designed to present my projects and artwork in an interactive and visually appealing manner. With the help of Three.js, I can create and render stunning 3D models, animations, and scenes directly in the browser. It provides a smooth and immersive experience for visitors, allowing them to explore and interact with my work.
 
